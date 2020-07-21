@@ -13,3 +13,7 @@ print(string_bits("Heelllloo"))
 #     if i % 2 == 0:
 #       result = result + str[i]
 #   return result
+
+
+
+# Given a string, return a new string made of every other char starting with the first, so "Hello" yields "Hlo".

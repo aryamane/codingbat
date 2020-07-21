@@ -8,3 +8,7 @@ def front_back(str):
   
 print(front_back("a"))
 print(front_back("riya"))
+
+
+
+# Given a string, return a new string where the first and last chars have been exchanged.

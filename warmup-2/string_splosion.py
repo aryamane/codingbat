@@ -7,3 +7,6 @@ def string_splosion(str):
   return result
 
 print(string_splosion("python"))
+
+
+# Given a non-empty string like "Code" return a string like "CCoCodCode".
